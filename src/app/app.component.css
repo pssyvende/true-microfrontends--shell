@@ -1,0 +1,16 @@
+.wrapper {
+    background-color: mediumpurple;
+    color: white;
+    width: 500px;
+    height: 500px;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    font-family: 'Corbel Light';
+}
+.placeholder {
+    outline: 2px goldenrod dashed;
+    width: 250px;
+    height: 250px;
+}
